@@ -23,8 +23,8 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech EEE @ **VIT Vellore**
-- 💻 Interested in **Systems Engineering, Backend Development and Machine Learning**
-- ⚡ Exploring **Low-Latency Systems** and **High Performance Computing**
+- 💻 Interested in **Systems Engineering, Backend Development, and Machine Learning**
+- ⚡ Exploring **Low-Latency Systems** and **High-Performance Computing**
 - 📈 Solving DSA and Competitive Programming problems regularly
 - 🔬 Building portfolio projects with production-grade architecture
 - 🎯 Targeting roles in **Systems Engineering, Backend Development, and Machine Learning**
@@ -64,47 +64,26 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AyushmanRaha&theme=tokyonight&row=2&column=4&no-frame=true&no-bg=true&margin-w=15" alt="AyushmanRaha's Trophies" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AyushmanRaha&show_icons=true&theme=tokyonight&hide_border=true" alt="AyushmanRaha's GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanRaha&layout=compact&theme=tokyonight&hide_border=true" alt="AyushmanRaha's Top Languages" />
+  ![Followers](https://img.shields.io/github/followers/AyushmanRaha?style=for-the-badge&logo=github&color=23272D)
+  ![Stars](https://img.shields.io/github/stars/AyushmanRaha?style=for-the-badge&logo=github&color=23272D)
+  ![Repos](https://img.shields.io/github/public-repos/AyushmanRaha?style=for-the-badge&logo=github&color=23272D)
   
 </div>
 
 ---
 
-## 🔥 Contribution Streak & Activity
+## ⚡ Current Focus
+
+> **Currently Building:** Diving deeper into lock-free data structures and C++ optimizations for high-frequency environments.
+> 
+> **Currently Learning:** Advanced RAG patterns, LLM architectures, and system design for scalable backend services.
+
+<br/>
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushmanRaha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushmanRaha&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushmanRaha/AyushmanRaha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushmanRaha/AyushmanRaha/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AyushmanRaha/AyushmanRaha/output/github-contribution-grid-snake.svg">
-  </picture>
+  <i>Let's connect and build something awesome together!</i>
 </div>
