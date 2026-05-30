@@ -2,6 +2,8 @@
 
 # Hi, I'm Ayushman Raha 👋
 
+![](https://komarev.com/ghpvc/?username=AyushmanRaha&color=blueviolet)
+
 ### B.Tech Electrical & Electronics Engineering @ VIT Vellore
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Systems+Programming;Machine+Learning;Competitive+Programming;Low+Latency+Engineering;Building+Projects+for+FAANG+%26+HFT" />
@@ -55,6 +57,10 @@ Ultra-low latency lock-free asynchronous message broker.
 End-to-end ML pipeline for churn prediction and business intelligence.
 
 ---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AyushmanRaha&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
