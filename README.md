@@ -6,7 +6,7 @@
 
 ### B.Tech Electrical & Electronics Engineering @ VIT Vellore
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Systems+Programming;Machine+Learning;Competitive+Programming;Low+Latency+Engineering;Building+Projects+for+FAANG+%26+HFT" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Systems+Programming;Machine+Learning;Competitive+Programming;Low+Latency+Engineering;Building+Scalable+Systems" />
 
 </div>
 
@@ -19,7 +19,7 @@
 - ⚡ Exploring Low-Latency Systems and High Performance Computing
 - 📈 Solving DSA and Competitive Programming problems regularly
 - 🔬 Building portfolio projects with production-grade architecture
-- 🎯 Targeting FAANG + HFT internships
+- 🎯 Targeting roles in Systems Engineering, Backend Development, and Machine Learning
 
 ---
 
@@ -92,16 +92,16 @@ End-to-end ML pipeline for churn prediction and business intelligence.
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/araha04/)
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge)](YOUR_CODEFORCES)
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge)](https://codeforces.com/profile/Ayushman04)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AyushmanR/)
 
 </div>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AyushmanRaha/AyushmanRaha/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AyushmanRaha/AyushmanRaha/output/github-contribution-grid-snake.svg" />
 </p>
