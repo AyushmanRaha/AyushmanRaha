@@ -93,3 +93,9 @@ End-to-end ML pipeline for churn prediction and business intelligence.
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE)
 
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AyushmanRaha/AyushmanRaha/output/github-contribution-grid-snake.svg" />
+</p>
