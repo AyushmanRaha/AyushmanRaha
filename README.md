@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=200&section=header&text=Ayushman%20Raha&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=AyushmanRaha&style=flat-square&color=00C2FF&label=PROFILE+VIEWS" alt="Profile Views" />
-
 <a href="https://github.com/AyushmanRaha">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Systems+%26+Software+Engineer;C%2B%2B+%7C+Low-Latency+Systems;Applied+Machine+Learning;Exploring+Embedded+Systems+%26+Robotics" alt="Typing SVG" />
 </a>
