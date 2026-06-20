@@ -1,197 +1,172 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=200&section=header&text=Ayushman%20Raha&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+
 <img src="https://komarev.com/ghpvc/?username=AyushmanRaha&style=flat-square&color=00C2FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
-### ⚡ B.Tech Electrical & Electronics Engineering · VIT Vellore
-
 <a href="https://github.com/AyushmanRaha">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Systems+%26+Embedded+Engineer;Low-Latency+%26+HPC+Systems;Embedded+Linux+%2F+RTOS+%2F+Bare-Metal;AI+%2F+ML+%2F+Edge+Inference;Robotics+%2F+ROS+2+%2F+Autonomous+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Systems+%26+Software+Engineer;C%2B%2B+%7C+Low-Latency+Systems;Applied+Machine+Learning;Exploring+Embedded+Systems+%26+Robotics" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araha04/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushmanRaha)
+[![Email](https://img.shields.io/badge/Email-00C2FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushman.raha.iguide@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to-SDE%20%2F%20Embedded%20Roles-2ECC71?style=for-the-badge)]()
 
 </div>
 
----
+<br/>
 
-## `whoami`
+## About
+
+I work across systems and software engineering — from low-level, performance-critical C++ to applied machine learning and the tooling around it. I'm most interested in problems where correctness and performance both matter: concurrency, memory layout, and software that has to behave predictably under real constraints.
+
+Outside of that, I've been spending more time on embedded systems and robotics fundamentals — RTOS concepts, microcontroller programming, and work that sits closer to hardware.
 
 ```cpp
 class AyushmanRaha {
 public:
-    std::string degree    = "B.Tech EEE @ VIT Vellore";
-    std::string focus[]   = { "Systems Engineering", "Embedded Systems",
-                               "Machine Learning", "Robotics" };
-    std::string passion   = "Building at the intersection of hardware and intelligence";
-    std::string currently = "Lock-free data structures · Edge AI · ROS 2 · RTOS internals";
+    std::string languages[] = { "C++17/20", "Python", "C", "Java" };
+    std::string focus[]     = { "Low-Latency Systems", "Applied Machine Learning",
+                                 "Computer Vision", "Embedded Systems (growing focus)" };
+    std::string currently   = "Lock-free C++ · ML pipelines · RTOS & embedded fundamentals";
 };
 ```
 
-- 🔧 Engineering systems from **bare-metal firmware** to **distributed cloud backends**
-- 🤖 Building **ROS 2 pipelines** and deploying **edge inference** on constrained hardware
-- ⚡ Focused on **low-latency architecture**, **real-time OS internals**, and **high-performance computing**
-- 📡 Hardware experience: **STM32 · ESP32 · Jetson Nano · Raspberry Pi · FPGA**
-- 🧠 Working with **RAG architectures**, **MCP**, and **LLM inference optimization** at the edge
-
 ---
 
-## 🛠 Technical Skills
-
-<div align="center">
-
-### 〈 Core Languages 〉
-
-![C++](https://img.shields.io/badge/C++17%2F20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 〈 Embedded Systems & Hardware 〉
-
-![STM32](https://img.shields.io/badge/STM32%20ARM%20Cortex--M-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00B140?style=for-the-badge&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr_RTOS-6517A4?style=for-the-badge&logoColor=white)
-![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FPGA](https://img.shields.io/badge/FPGA-DD1100?style=for-the-badge&logoColor=white)
-
-### 〈 Protocols & Interfaces 〉
-
-![CAN Bus](https://img.shields.io/badge/CAN_Bus-0078D4?style=for-the-badge&logoColor=white)
-![I2C/SPI/UART](https://img.shields.io/badge/I2C_%7C_SPI_%7C_UART-555555?style=for-the-badge&logoColor=white)
-![Ethernet](https://img.shields.io/badge/Ethernet-00599C?style=for-the-badge&logoColor=white)
-![JTAG/SWD](https://img.shields.io/badge/JTAG_%7C_SWD-8B0000?style=for-the-badge&logoColor=white)
-
-### 〈 Compute Hardware 〉
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### 〈 Robotics & Autonomy 〉
-
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
-### 〈 AI / ML / Edge Inference 〉
-
-![llama.cpp](https://img.shields.io/badge/llama.cpp-FF6B35?style=for-the-badge&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Frameworks-8B5CF6?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-00C2FF?style=for-the-badge&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 〈 Data & Databases 〉
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone_(Vector_DB)-000000?style=for-the-badge&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus_(Vector_DB)-00A1EA?style=for-the-badge&logoColor=white)
-
-### 〈 DevOps & Tooling 〉
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git_&_CI%2FCD-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_%2F_Shell_Scripting-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 〈 CS Foundations 〉
-
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-00C2FF?style=for-the-badge&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-555555?style=for-the-badge&logoColor=white)
-![OOD](https://img.shields.io/badge/OOD_%26_Design_Patterns-9B59B6?style=for-the-badge&logoColor=white)
-![OS](https://img.shields.io/badge/Operating_Systems-2C3E50?style=for-the-badge&logoColor=white)
-![Networks](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 🔹 Featured Projects
+## What I Work On
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### Aether-Stream
-> **Lock-free asynchronous message broker**
-
-High-throughput messaging system built for latency-sensitive environments. Uses C++20 atomics and cache-aware data structures to eliminate mutex contention.
-
-`C++20` `Lock-Free` `SPSC/MPSC Queues` `Low Latency`
+### ⚡ Low-Latency C++ Systems
+Lock-free concurrent data structures, cache-conscious memory layouts, and zero-copy I/O — built to avoid the usual overhead of locks and syscalls in throughput-sensitive paths.
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### DepthLensPro
-> **Monocular depth estimation and 3D reconstruction pipeline**
-
-End-to-end computer vision pipeline converting 2D RGB input into dense point clouds and 3D mesh representations using learned depth priors.
-
-`Python` `Computer Vision` `Depth Estimation` `3D Reconstruction`
+### 📊 Applied Machine Learning
+End-to-end ML pipelines — from messy real-world data to trained models to decision-support output, with an emphasis on the engineering around the model, not just the model itself.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### BizLens Analytics
-> **ML pipeline for churn prediction and business intelligence**
-
-Production ML system with feature engineering, model selection, SHAP-based explainability, and a BI dashboard for business stakeholders.
-
-`Python` `Scikit-Learn` `PostgreSQL` `MLOps`
-
-</td>
-<td width="50%">
-
-### *[ In Progress ]*
-> **RTOS · Edge AI · ROS 2 · Embedded Linux**
-
-Projects at the intersection of real-time systems, on-device inference, and autonomous robotics.
-
-`FreeRTOS` `ROS 2` `llama.cpp` `STM32`
+### 🖥️ Computer Vision & Desktop Tooling
+Vision pipelines and local-first desktop applications — model inference, benchmarking, and evaluation tooling that runs entirely on-device.
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+**Currently building toward:** embedded systems (STM32, ESP32), RTOS fundamentals (FreeRTOS), and robotics (ROS 2).
+
+</div>
+
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushmanRaha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanRaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=C9D1D9"/>
+**Languages**
+
+![C++](https://img.shields.io/badge/C++17%2F20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Systems & Tooling**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=for-the-badge&logoColor=white)
+
+**Machine Learning & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**App & Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## Featured Projects
+
+### [Aether-Stream](https://github.com/AyushmanRaha/Aether-Stream)
+**Ultra-low-latency, lock-free messaging engine in C++20**
+
+A messaging engine built around a lock-free single-producer/single-consumer ring buffer using C++20 atomics with explicit acquire/release ordering, instead of `std::mutex`-based queuing. Data structures are cache-line aligned to avoid false sharing, and persistence is handled via a memory-mapped write-ahead log for zero-copy durability. Built with CMake, tested with GoogleTest.
+
+`C++20` `Lock-Free` `SPSC` `mmap`
+
+---
+
+### [BizLens Analytics](https://github.com/AyushmanRaha/BizLens-Analytics)
+**ML pipeline for customer churn prediction**
+
+A churn-prediction pipeline with an ETL layer that handles inconsistent real-world CSV schemas, an XGBoost classifier trained with SMOTE to address class imbalance, and a tiered (Low/Medium/High/Critical) risk-scoring output mapped to suggested retention actions. Built with Python and Streamlit.
+
+`Python` `XGBoost` `Streamlit` `ETL`
+
+---
+
+### [DepthLens Pro](https://github.com/AyushmanRaha/DepthLensPro)
+**Local-first desktop app for monocular depth estimation**
+
+A desktop application (Electron + FastAPI + PyTorch/ONNX Runtime) for running and comparing monocular depth estimation models, benchmarking ONNX-accelerated inference, evaluating against ground truth, and exporting 3D point clouds — entirely on-device, with no cloud calls.
+
+`Python` `PyTorch` `ONNX Runtime` `Electron`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AyushmanRaha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanRaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=C9D1D9"/>
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AyushmanRaha&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF)](https://git.io/streak-stats)
 
-<br/>
-
-![Followers](https://img.shields.io/github/followers/AyushmanRaha?style=for-the-badge&logo=github&color=23272D)
-![Stars](https://img.shields.io/github/stars/AyushmanRaha?style=for-the-badge&logo=github&color=23272D)
-
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## Currently Exploring
+
+- Lock-free / concurrent data structures in modern C++
+- RTOS fundamentals and microcontroller programming (STM32, ESP32)
+- ROS 2 basics for robotics and autonomous systems
+- Applied ML tooling for real-world, messy data
+
+---
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushmanRaha/AyushmanRaha/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushmanRaha/AyushmanRaha/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AyushmanRaha/AyushmanRaha/output/github-contribution-grid-snake.svg" />
-</picture>
+**Open to Software / Embedded Engineering opportunities — let's connect.**
 
 </div>
-
----
-
-## ⚡ Current Focus
